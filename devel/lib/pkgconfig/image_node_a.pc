@@ -1,0 +1,8 @@
+prefix=/home/chengyangkj/catkin_qt/devel
+
+Name: image_node_a
+Description: Description of image_node_a
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp std_msgs sensor_msgs

@@ -1,0 +1,9 @@
+-I/home/chengyangkj/catkin_qt/src/qt_ros_test
+-I/home/chengyangkj/catkin_qt/build/qt_ros_test
+-DROS_BUILD_SHARED_LIBS=1
+-DROS_BUILD_SHARED_LIBS=1
+-DROS_PACKAGE_NAME="qt_ros_test"
+-DROSCONSOLE_BACKEND_LOG4CXX
+-o
+/home/chengyangkj/catkin_qt/build/qt_ros_test/src/moc_qt_ros_test.cpp
+/home/chengyangkj/catkin_qt/src/qt_ros_test/src/qt_ros_test.h

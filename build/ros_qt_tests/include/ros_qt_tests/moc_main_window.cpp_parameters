@@ -1,0 +1,12 @@
+-I/opt/ros/melodic/include
+-I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp
+-I/usr/include
+-I/home/chengyangkj/catkin_qt/src/ros_qt_tests
+-I/home/chengyangkj/catkin_qt/build/ros_qt_tests
+-DROS_BUILD_SHARED_LIBS=1
+-DROS_BUILD_SHARED_LIBS=1
+-DROS_PACKAGE_NAME="ros_qt_tests"
+-DROSCONSOLE_BACKEND_LOG4CXX
+-o
+/home/chengyangkj/catkin_qt/build/ros_qt_tests/include/ros_qt_tests/moc_main_window.cpp
+/home/chengyangkj/catkin_qt/src/ros_qt_tests/include/ros_qt_tests/main_window.hpp

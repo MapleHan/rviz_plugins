@@ -1,0 +1,8 @@
+prefix=/home/chengyangkj/catkin_qt/install
+
+Name: camera_image
+Description: Description of camera_image
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

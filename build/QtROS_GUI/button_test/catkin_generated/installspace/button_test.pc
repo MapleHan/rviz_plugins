@@ -1,0 +1,8 @@
+prefix=/home/chengyangkj/catkin_qt/install
+
+Name: button_test
+Description: Description of button_test
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

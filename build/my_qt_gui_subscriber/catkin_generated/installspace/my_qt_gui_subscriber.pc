@@ -1,0 +1,8 @@
+prefix=/home/chengyangkj/catkin_qt/install
+
+Name: my_qt_gui_subscriber
+Description: Description of my_qt_gui_subscriber
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

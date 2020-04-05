@@ -1,0 +1,15 @@
+-I/opt/ros/melodic/include
+-I/usr/include/eigen3
+-I/usr/include/OGRE/Overlay
+-I/usr/include/OGRE
+-I/usr/include
+-I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp
+-I/home/chengyangkj/catkin_qt/src/librviz_tu
+-I/home/chengyangkj/catkin_qt/build/librviz_tu
+-DROS_BUILD_SHARED_LIBS=1
+-DROS_BUILD_SHARED_LIBS=1
+-DROS_PACKAGE_NAME="librviz_tu"
+-DROSCONSOLE_BACKEND_LOG4CXX
+-o
+/home/chengyangkj/catkin_qt/build/librviz_tu/include/librviz_tu/moc_main_window.cpp
+/home/chengyangkj/catkin_qt/src/librviz_tu/include/librviz_tu/main_window.hpp
