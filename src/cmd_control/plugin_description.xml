@@ -1,0 +1,9 @@
+ <library path="lib/libcmd_control">
+      <class name="cmd_control_space/speed_control"
+             type="cmd_control_space::cmd_control"
+             base_class_type="rviz::Panel">
+        <description>
+          A panel widget Control the Robot
+        </description>
+      </class>
+    </library>

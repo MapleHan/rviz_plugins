@@ -806,7 +806,7 @@ public:
         retranslateUi(MainWindowDesign);
         QObject::connect(action_Quit, SIGNAL(triggered()), MainWindowDesign, SLOT(close()));
 
-        tab_manager->setCurrentIndex(1);
+        tab_manager->setCurrentIndex(0);
         tabWidget->setCurrentIndex(0);
 
 

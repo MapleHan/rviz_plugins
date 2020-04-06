@@ -1,0 +1,8 @@
+prefix=/home/chengyangkj/catkin_qt/install
+
+Name: rviz_telop_commander
+Description: Description of rviz_telop_commander
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,2 +1,2 @@
-
+cmd_control:cyrobot_monitor:rviz_telop_commander
 -DCATKIN_DEVEL_PREFIX=/home/chengyangkj/catkin_qt/devel -DCMAKE_INSTALL_PREFIX=/home/chengyangkj/catkin_qt/install -G Unix Makefiles
